@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/toutube_clone/static/css/main.b6becd56.css",
+    "main.js": "/toutube_clone/static/js/main.a2313e60.js",
+    "static/js/787.df02e639.chunk.js": "/toutube_clone/static/js/787.df02e639.chunk.js",
+    "static/media/logo.png": "/toutube_clone/static/media/logo.666d865472a3b4638cdf.png",
+    "index.html": "/toutube_clone/index.html",
+    "main.b6becd56.css.map": "/toutube_clone/static/css/main.b6becd56.css.map",
+    "main.a2313e60.js.map": "/toutube_clone/static/js/main.a2313e60.js.map",
+    "787.df02e639.chunk.js.map": "/toutube_clone/static/js/787.df02e639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6becd56.css",
+    "static/js/main.a2313e60.js"
+  ]
+}
